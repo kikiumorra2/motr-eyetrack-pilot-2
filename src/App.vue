@@ -14,7 +14,7 @@
 -->
 <template>
   <Experiment title="Reading Experiment" translate="no" wide>
-    <!-- 1. Consent ---------------------------------------------------------------- -->
+    <!-- 1. Consent-->
 <Screen
   title="Welcome"
   class="instructions"
